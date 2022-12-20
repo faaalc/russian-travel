@@ -1,7 +1,7 @@
 .footer__link {
   text-decoration: none;
   color: var(--text-color);
-  font-weight: 300;
+  font-weight: 400;
   font-size: 16px;
   line-height: 18px;
   transition: var(--link-transition);

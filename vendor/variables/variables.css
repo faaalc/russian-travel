@@ -1,6 +1,7 @@
 :root {
   --bg-color: #2A2C2F;
-  --text-color: #ffffff;
+  --text-color: #FFFFFF;
+  --url-heading-color: #AAAAAA;
   --link-transition: opacity .2s;
   --link-hover-opacity: .8;
 }
